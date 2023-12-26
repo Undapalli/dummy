@@ -6,6 +6,7 @@
    <UUID>61e4fffc-a454-499f-af7f-46024d4cb487</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\naray\git\dummy\dummy.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
